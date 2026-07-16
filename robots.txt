@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iasprocurement.netlify.app/sitemap.xml
